@@ -37,4 +37,4 @@ Criado com React e Tailwind CSS, este terminal oferece uma experiência única, 
 ---
 
 ## 🤘 Feito por
-Franky – @_wtf.franky
+Franky – https://www.instagram.com/_wtf.franky/
