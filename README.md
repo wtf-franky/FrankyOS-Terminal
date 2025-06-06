@@ -26,9 +26,3 @@ Criado com React e Tailwind CSS, este terminal oferece uma experiência única, 
 - 🎨 Interface estilizada com **Tailwind CSS**, com visual dark e estilo retro.
 
 ---
-
-### 1. Clona o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/frankyos.git
-cd frankyos
