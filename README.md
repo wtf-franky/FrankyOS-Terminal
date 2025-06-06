@@ -26,3 +26,15 @@ Criado com React e Tailwind CSS, este terminal oferece uma experiência única, 
 - 🎨 Interface estilizada com **Tailwind CSS**, com visual dark e estilo retro.
 
 ---
+
+## 🛠️ Tecnologias Usadas
+- React
+- Tailwind CSS
+- Context API
+- Vite
+- JavaScript
+
+---
+
+## 🤘 Feito por
+Franky – @_wtf.franky
