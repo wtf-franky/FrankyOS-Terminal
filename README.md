@@ -1,6 +1,6 @@
 # FrankyOS Terminal
 
-FrankyOS é um sistema de terminal web interativo, moderno, minimalista e inspirado em terminais clássicos, onde podes executar múltiplas aplicações úteis diretamente via comandos.
+FrankyOS Terminal é um sistema de terminal web interativo, moderno, minimalista e inspirado em terminais clássicos, onde podes executar múltiplas aplicações úteis diretamente via comandos.
 
 Criado com React e Tailwind CSS, este terminal oferece uma experiência única, funcional e altamente escalável.
 
